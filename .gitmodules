@@ -1,0 +1,3 @@
+[submodule "libraries/PDFWriterAndroid"]
+	path = libraries/PDFWriterAndroid
+	url = git@github.com:BogdanTymoshenko/PDFWriterAndroid.git
